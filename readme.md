@@ -32,7 +32,7 @@ TriggerEvent('rcore_notificaton:addNotification',source,title,message,style)
 TriggerEvent('rcore_notificaton:addNotificationForAll',title,message,style)
 ```
 
-###Sources:
+### Sources:
 
 boostrap: https://getbootstrap.com/
 
