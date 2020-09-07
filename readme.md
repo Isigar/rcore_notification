@@ -1,7 +1,7 @@
 # rcore_notifications
 Simple html notification based on boostrap and bootstrap-notify
 
-##How to use
+## How to use
 ### Client side
 With exports
 ```lua
